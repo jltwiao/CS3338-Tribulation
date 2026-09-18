@@ -1,0 +1,36 @@
+Part 1: Repository Setup
+	Joshua - 1. Create a new GitHub repository for your final project.
+	Joshua - 2. Add your group members as collaborators under repository settings.
+	Both - 3. Clone the repository to your local machine.
+	Part 2: Organizing the Project
+JD - 4. Set up a folder structure to organize your project files
+It doesn’t have to be this in depth yet, but this is to give you an example of how your
+local folder should look.
+Part 3: Creating & Configuring .gitignore
+	Joshua - 1. Practice creating a .gitignore file to prevent unnecessary files from being tracked
+	2. Add rules to ignore specific files and directories from the example above. Your
+	.gitignore must include (Note: Each of these can be done in one single line):
+		JD - a. All log files
+		JD - b. The entire user manual folder
+		JD - c. All txt files that include a “-”
+		Joshua - d. The styles.css file
+		Joshua - e. All SRS files besides the final version
+		Joshua - f. All SDD files besides the final version
+		Joshua - g. Any README files not in the root directory
+	3. Submit your .gitignore file (Hint: your .gitignore should only be 7 lines of code)
+Part 4: Creating a Team Project Board
+	Joshua - 1. Go to your GitHub repository.
+	Joshua - 2. Click on the Projects tab and create a new project.
+	Joshua - 3. Set up a Kanban board with the following columns:
+		a. To Do – Tasks that need to be completed.
+		b. In Progress – Tasks currently being worked on.
+		c. Review – Tasks that need approval.
+		d. Done – Completed tasks.
+	4. Add project tasks, such as setting up the repo, determining the final project, sending
+	the professor an email.
+Part 5: Submitting Your Work
+	JD - 1. Create a text file named final-project.txt and include:
+		a. Your GitHub repository link
+	2. Submit your assignment as a .zip including:
+		a. Your final-project.txt file
+		b. Your .gitignore fil
