@@ -7,9 +7,9 @@
 # The styles.css file
 src/style.css
 # All SRS files besides the final version
-*/SRS_V*.docx
+SRS_v*.docx
 # All SDD files besides the final version
-*/SDD_V*.docx
+SDD_v*.docx
 # Any README files not in the root directory
 */README.md
 #Juan Barreras is on Mac, any Mac .files
