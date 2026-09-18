@@ -1,9 +1,9 @@
 # All log files
-
+*.log
 # The entire user manual folder
-
+/User_Manual
 # All txt files that include a “-”
-
+*-*.txt
 # The styles.css file
 src/style.css
 # All SRS files besides the final version
@@ -12,3 +12,5 @@ src/style.css
 */SDD_V*.docx
 # Any README files not in the root directory
 */README.md
+#Juan Barreras is on Mac, any Mac .files
+*.DS_Store
